@@ -7,5 +7,5 @@
 </a>
 
 <a href="https://github.com/nguyenthanh-01/blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanh-01&theme=buefy&border_color=B57EDC&repo=blog" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanh-01&theme=buefy&langs_count=10&border_color=B57EDC&repo=blog" />
 </a>
