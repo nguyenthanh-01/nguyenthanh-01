@@ -4,6 +4,6 @@
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/nguyenthanh-01">
+  <img align="center" src="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=code&theme=buefy" />
 </a>
