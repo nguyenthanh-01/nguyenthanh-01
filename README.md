@@ -1,6 +1,6 @@
 <picture>
   <source
-    srcset="https://github-readme-stats-52blue.vercel.app/api?username=nguyenthanh-01&show_icons=true&theme=tokyonight&hide_border=true"
+    srcset="https://github-readme-stats-52blue.vercel.app/api?username=nguyenthanh-01&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -13,7 +13,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-52blue.vercel.app/api/top-langs/?username=nguyenthanh-01&layout=compact&theme=tokyonight&hide_border=true"
+    srcset="https://github-readme-stats-52blue.vercel.app/api/top-langs/?username=nguyenthanh-01&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -29,7 +29,7 @@
 <a href="https://github.com/nguyenthanh-01/code">
 <picture>
   <source
-    srcset="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=code&theme=tokyonight&hide_border=false"
+    srcset="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=code&theme=tokyonight&bg_color=00000000&hide_border=false"
     media="(prefers-color-scheme: dark)"
   />
   <source
