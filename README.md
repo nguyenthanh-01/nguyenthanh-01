@@ -1,3 +1,4 @@
+<a
 <picture>
   <source
     srcset="https://github-readme-stats-52blue.vercel.app/api?username=nguyenthanh-01&show_icons=true&theme=tokyonight&hide_border=true"
@@ -9,3 +10,5 @@
   />
   <img src="https://github-readme-stats-52blue.vercel.app/api?username=nguyenthanh-01&show_icons=true" />
 </picture>
+/></a>
+
