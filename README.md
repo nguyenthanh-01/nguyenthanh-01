@@ -28,11 +28,11 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=code&theme=tokyonight&hide_border=true"
+    srcset="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=code&theme=tokyonight&hide_border=false"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=code&theme=transparent&hide_border=true"
+    srcset="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=code&theme=transparent&hide_border=false"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=code" />
