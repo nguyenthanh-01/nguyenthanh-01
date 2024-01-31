@@ -26,6 +26,7 @@
 
 #### Top Repositories
 
+<a href="https://github.com/nguyenthanh-01/code">
 <picture>
   <source
     srcset="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=code&theme=tokyonight&hide_border=false"
@@ -35,7 +36,6 @@
     srcset="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=code&theme=transparent&hide_border=false"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <a href="https://github.com/nguyenthanh-01/code">
   <img src="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=code" />
 </picture>
 </a>
