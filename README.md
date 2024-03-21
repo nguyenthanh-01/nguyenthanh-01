@@ -1,4 +1,4 @@
-<picture>
+<picture> 
   <source
     srcset="https://github-readme-stats-52blue.vercel.app/api?username=nguyenthanh-01&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"
     media="(prefers-color-scheme: dark)"
