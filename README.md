@@ -27,6 +27,7 @@
 #### Top Repositories
 <br />
 
+|
 <a href="https://github.com/nguyenthanh-01/code">
 <picture>
   <source
@@ -40,8 +41,7 @@
   <img src="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=code" />
 </picture>
 </a>
-| ------------- |
-
+|
 <a href="https://github.com/nguyenthanh-01/rust">
 <picture>
   <source
@@ -55,3 +55,5 @@
   <img src="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=rust" />
 </picture>
 </a>
+|
+| ------------- | ------------- |
