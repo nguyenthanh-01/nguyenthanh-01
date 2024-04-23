@@ -40,3 +40,17 @@
   <img src="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=code" />
 </picture>
 </a>
+
+<a href="https://github.com/nguyenthanh-01/rust">
+<picture>
+  <source
+    srcset="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=rust&theme=tokyonight&bg_color=00000000&hide_border=false"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=rust&theme=transparent&hide_border=false"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-52blue.vercel.app/api/pin/?username=nguyenthanh-01&repo=rust" />
+</picture>
+</a>
